@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **[PyCreations](https://github.com/Oronno03/PyCreations)**
  
- 🌱 I’m currently learning **Three JS**
+ 🌱 I’m currently learning **Java**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Oronno03/Oronno03/issues)**
 
