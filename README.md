@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[PyCreations](https://github.com/Oronno03/PyCreations)**
+ 🔭 I’m currently working on **A private project**
  
- 🌱 I’m currently learning **Java**
+ 🌱 I’m currently learning **Spigot**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Oronno03/Oronno03/issues)**
 
