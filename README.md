@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Nothing**
  
- 🌱 I’m currently learning **GO Lang**
+ 🌱 I’m currently learning **Nothing**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Oronno03/Oronno03/issues)**
 
